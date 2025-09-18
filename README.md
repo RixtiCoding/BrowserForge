@@ -12,7 +12,7 @@ BrowserForge is a Go library for generating realistic browser fingerprints and H
 ## Installation
 
 ```bash
-go get github.com/yourneighborhoodchef/browserforge
+go get github.com/RixtiCoding/BrowserForge
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ import (
     "fmt"
     "log"
     
-    "github.com/yourneighborhoodchef/browserforge/fingerprint"
+    "github.com/RixtiCoding/BrowserForge/fingerprint"
 )
 
 func main() {
